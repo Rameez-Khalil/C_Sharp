@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\bin\Debug\net8.0\Lambdas.exe
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\bin\Debug\net8.0\Lambdas.deps.json
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\bin\Debug\net8.0\Lambdas.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\bin\Debug\net8.0\Lambdas.dll
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\bin\Debug\net8.0\Lambdas.pdb
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.dll
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\refint\Lambdas.dll
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.pdb
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\Lambdas.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Coding\C#\C#\Lambdas\obj\Debug\net8.0\ref\Lambdas.dll

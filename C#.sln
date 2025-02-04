@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{641EC2AF-7DD5-4CAB-9184-D286B5B93934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Iterators\Iterators.csproj", "{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641EC2AF-7DD5-4CAB-9184-D286B5B93934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641EC2AF-7DD5-4CAB-9184-D286B5B93934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641EC2AF-7DD5-4CAB-9184-D286B5B93934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641EC2AF-7DD5-4CAB-9184-D286B5B93934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
