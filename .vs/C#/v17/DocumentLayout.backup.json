@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}|Generics\\Generics.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}|Yield\\Yield.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}|Yield\\Yield.csproj|solutionrelative:yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{641EC2AF-7DD5-4CAB-9184-D286B5B93934}|Lambdas\\Lambdas.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{641EC2AF-7DD5-4CAB-9184-D286B5B93934}|Lambdas\\Lambdas.csproj|solutionrelative:lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}|Iterators\\Iterators.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\iterators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}|Iterators\\Iterators.csproj|solutionrelative:iterators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Generics\\Program.cs",
-              "RelativeDocumentMoniker": "Generics\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Generics\\Program.cs*",
-              "RelativeToolTip": "Generics\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Yield\\Program.cs",
+              "RelativeDocumentMoniker": "Yield\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Yield\\Program.cs",
+              "RelativeToolTip": "Yield\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:13:57.615Z",
+              "WhenOpened": "2025-02-06T20:01:33.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Lambdas\\Program.cs",
-              "RelativeDocumentMoniker": "Lambdas\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Lambdas\\Program.cs",
-              "RelativeToolTip": "Lambdas\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Iterators\\Program.cs",
+              "RelativeDocumentMoniker": "Iterators\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Iterators\\Program.cs",
+              "RelativeToolTip": "Iterators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T16:35:51.027Z",
+              "WhenOpened": "2025-02-04T17:22:05.766Z",
               "EditorCaption": ""
             }
           ]

@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{641EC2AF-7DD5-4CAB-9184-D286B5B93934}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Iterators\Iterators.csproj", "{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC5AE6A1-DE52-4F40-9CC2-F76A95FF8DD5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D94FEB6-F6B2-4C8C-A55E-AC9AFC48D52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
