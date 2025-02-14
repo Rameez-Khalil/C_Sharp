@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yield")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ff76f7fce9eafb009bfba7b33b28821df605b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df1dbb86294e4a945e265ee5ab508c6794bd33b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yield")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yield")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

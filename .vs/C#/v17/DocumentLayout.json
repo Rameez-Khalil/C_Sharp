@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}|LINQ\\LINQ.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}|LINQ\\LINQ.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}|LINQ\\LINQ.csproj|solutionrelative:linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AC0519-A699-46E8-B421-83567E6E3A40}|Delegates\\Delegates.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AC0519-A699-46E8-B421-83567E6E3A40}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}|Yield\\Yield.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CA16E9C-C4FD-4BC9-8EB9-7A2072BAAA5F}|Yield\\Yield.csproj|solutionrelative:yield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,14 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:17:29.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LINQ.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\LINQ.csproj",
+              "RelativeDocumentMoniker": "LINQ\\LINQ.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\LINQ.csproj",
+              "RelativeToolTip": "LINQ\\LINQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T14:17:19.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:55:50.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Yield\\Program.cs",
               "RelativeDocumentMoniker": "Yield\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Yield\\Program.cs",
               "RelativeToolTip": "Yield\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T20:01:33.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T20:01:33.471Z"
             }
           ]
         }
