@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{BF4D8C88-9689-4458-ABFC-814683E3F44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4D8C88-9689-4458-ABFC-814683E3F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4D8C88-9689-4458-ABFC-814683E3F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4D8C88-9689-4458-ABFC-814683E3F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4D8C88-9689-4458-ABFC-814683E3F44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

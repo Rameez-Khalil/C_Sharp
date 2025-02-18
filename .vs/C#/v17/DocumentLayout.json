@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF4D8C88-9689-4458-ABFC-814683E3F44D}|Events\\Events.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\events\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D8C88-9689-4458-ABFC-814683E3F44D}|Events\\Events.csproj|solutionrelative:events\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D8C88-9689-4458-ABFC-814683E3F44D}|Events\\Events.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\events\\observerdeisgnpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D8C88-9689-4458-ABFC-814683E3F44D}|Events\\Events.csproj|solutionrelative:events\\observerdeisgnpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D8C88-9689-4458-ABFC-814683E3F44D}|Events\\Events.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D8C88-9689-4458-ABFC-814683E3F44D}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}|LINQ\\LINQ.csproj|c:\\users\\lenovo\\desktop\\coding\\c#\\c#\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E2A5DED-B253-4DB3-B30E-FAADA87FFF3A}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +43,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\Program.cs",
-              "RelativeToolTip": "LINQ\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Events\\Events.cs",
+              "RelativeDocumentMoniker": "Events\\Events.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Events\\Events.cs",
+              "RelativeToolTip": "Events\\Events.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:17:29.834Z",
+              "WhenOpened": "2025-02-18T12:59:06.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ObserverDeisgnPattern.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Events\\ObserverDeisgnPattern.cs",
+              "RelativeDocumentMoniker": "Events\\ObserverDeisgnPattern.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Events\\ObserverDeisgnPattern.cs",
+              "RelativeToolTip": "Events\\ObserverDeisgnPattern.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:47:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEoAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:01:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:17:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LINQ.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\LINQ\\LINQ.csproj",
               "RelativeDocumentMoniker": "LINQ\\LINQ.csproj",
@@ -55,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
@@ -67,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\C#\\C#\\Yield\\Program.cs",
               "RelativeDocumentMoniker": "Yield\\Program.cs",
