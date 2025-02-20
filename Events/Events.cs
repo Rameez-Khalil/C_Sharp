@@ -62,7 +62,7 @@ public class GoldPriceReader
     //event is always of a delegate type. 
     //Other classes must be able to access it. 
 
-    public event PriceRead? PriceRead; 
+    public event EventHandler<PriceReadEventArgs>? PriceRead; 
 
 
    
@@ -81,9 +81,9 @@ public class GoldPriceReader
 
     private void OnPriceRead(int price)
     {
-        PriceRead(price); 
+        
 
-        PriceRead?.Invoke(price); //invokes all methods subscribed to the event. 
+        PriceRead?.Invoke(this, new PriceReadEventArgs(price)); //invokes all methods subscribed to the event.  //sender. 
     }
 }
 
@@ -100,11 +100,11 @@ public class EmailPriceChangeNotifier
 
 
     //Update mechanism and send notification.
-    public void Update(int price)
+    public void Update(object? sender, PriceReadEventArgs eventArgs)
     {
-        if (price > _notificationThreshold)
+        if (eventArgs.Price > _notificationThreshold)
         {
-            Console.WriteLine($"Sending an email saying " + $"the gold price has exceeded {_notificationThreshold}" + $" And it is now ${price}");
+            Console.WriteLine($"Sending an email saying " + $"the gold price has exceeded {_notificationThreshold}" + $" And it is now ${eventArgs.Price}");
         }
 
     }
@@ -120,11 +120,11 @@ public class PushPriceChangeNotifier
         _notificationThreshold = notificationThreshold;
     }
 
-    public void Update(int price)
+    public void Update(object? sender, PriceReadEventArgs eventArgs)
     {
-        if (price > _notificationThreshold)
+        if (eventArgs.Price > _notificationThreshold)
         {
-            Console.WriteLine($"Sending an push notification saying " + $"the gold price has exceeded {_notificationThreshold}" + $" And it is now ${price}");
+            Console.WriteLine($"Sending an push notification saying " + $"the gold price has exceeded {_notificationThreshold}" + $" And it is now ${eventArgs.Price}");
         }
     }
 }
@@ -151,6 +151,18 @@ class Program
 
 
 
+//EVENT ARG TYPE.
+public class PriceReadEventArgs : EventArgs
+{
+    public int Price { get;}
+
+    public PriceReadEventArgs(int price)
+    {
+        Price = price;
+    }
+}
+
+
 
 
 /*
@@ -170,4 +182,12 @@ class Program
  * NotificationsClasses - Observers.
  * 
  * 1. First decouple them and define an interface over which they can communicate.
+ */
+
+
+/*
+ * MEMORY LEAKS - 
+ *  Memory leaks happen when some objects are no longer used, and they could be removed from memory.
+ *  But since it has some reference points, the garbage collector cannot remove them. 
+ *  
  */
